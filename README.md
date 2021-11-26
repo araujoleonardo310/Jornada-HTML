@@ -12,30 +12,29 @@ PROGRAMAÇÂO DE ESTUDO
 
 - [x] Formatações de textos
 
-- [] Listas ordenadas e não ordenadas
+- [ ] Listas ordenadas e não ordenadas
 
-- [] Testando seus conhecimentos
+- [ ] Testando seus conhecimentos
 
-- [] Imagens
+- [ ] Imagens
 
-- [] Links
+- [ ] Links
 
-- [] Tabelas
+- [ ] Tabelas
 
-- [] Mais sobre tabelas
+- [ ] Mais sobre tabelas
 
-- [] Formulários
+- [ ] Formulários
 
-- [] Mais componentes de formulários
+- [ ] Mais componentes de formulários
 
-- [] Caracteres especiais
+- [ ] Caracteres especiais
 
-- [] Página inicial do #projeto1 UNES
+- [ ] Página inicial do #projeto1 UNES
 
-- [] Finalizando #projeto1 UNES
+- [ ] Finalizando #projeto1 UNES
 
-- [] Conceitos de acessibilidade
-
+- [ ] Conceitos de acessibilidade
 
 <br>
 
