@@ -1,40 +1,41 @@
 PROGRAMAÇÂO DE ESTUDO
 
-[ x ]  O que irei aprender? html 5
+- [x] O que irei aprender? html 5
 
-[ x ] Estrutura de uma página web - parte 1
+- [x] Estrutura de uma página web - parte 1
 
-[ x ] Estrutura de uma página web - parte 2
+- [x] Estrutura de uma página web - parte 2
 
-[ x ] Cabeçalhos
+- [x] Cabeçalhos
 
-[ x ] Parágrafos
+- [x] Parágrafos
 
-[] Formatações de textos
+- [x] Formatações de textos
 
-[] Listas ordenadas e não ordenadas
+- [] Listas ordenadas e não ordenadas
 
-[] Testando seus conhecimentos
+- [] Testando seus conhecimentos
 
-[] Imagens
+- [] Imagens
 
-[] Links
+- [] Links
 
-[] Tabelas
+- [] Tabelas
 
-[] Mais sobre tabelas
+- [] Mais sobre tabelas
 
-[] Formulários
+- [] Formulários
 
-[] Mais componentes de formulários
+- [] Mais componentes de formulários
 
-[] Caracteres especiais
+- [] Caracteres especiais
 
-[] Página inicial do #projeto1 UNES
+- [] Página inicial do #projeto1 UNES
 
-[] Finalizando #projeto1 UNES
+- [] Finalizando #projeto1 UNES
 
-[] Conceitos de acessibilidade
+- [] Conceitos de acessibilidade
+
 
 <br>
 
